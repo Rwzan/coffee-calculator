@@ -2,6 +2,8 @@
 
 A fun mini website that calculates how many cups of coffee you need based on study hours.
 
+Live Link: https://rwzan.github.io/coffee-calculator/
+
 ## 🛠️ Built With
 - HTML
 - CSS
